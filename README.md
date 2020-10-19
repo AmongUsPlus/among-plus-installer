@@ -5,7 +5,7 @@ This is the installation setup for the AmongUsPlus mod, which allows for a modif
 
 ## How to install
 * Download the latest release available
-* Once downloaded, open the script.exe file (keep going into the folders until you get to the script.exe)
+* Once downloaded, open the script.exe file (`build/exe.win32-3.7` to get to the file)
 * A GUI with some info will pop up
 * Click the button which says "Add Among Us Directory"
 * On click, this button will open up a directory browser
